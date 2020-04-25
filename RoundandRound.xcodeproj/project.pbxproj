@@ -7,15 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B42F32E2454839F004A5B3F /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B42F32D2454839F004A5B3F /* SwiftUIView.swift */; };
 		3BD6894524542D9B00AFA3E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD6894424542D9B00AFA3E4 /* AppDelegate.swift */; };
 		3BD6894724542D9B00AFA3E4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD6894624542D9B00AFA3E4 /* SceneDelegate.swift */; };
 		3BD6894924542D9B00AFA3E4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD6894824542D9B00AFA3E4 /* ContentView.swift */; };
 		3BD6894B24542D9D00AFA3E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BD6894A24542D9D00AFA3E4 /* Assets.xcassets */; };
 		3BD6894E24542D9D00AFA3E4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BD6894D24542D9D00AFA3E4 /* Preview Assets.xcassets */; };
 		3BD6895124542D9D00AFA3E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BD6894F24542D9D00AFA3E4 /* LaunchScreen.storyboard */; };
+		3BD6895924545EFC00AFA3E4 /* Crispy_In_Circles.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3BD6895824545EFC00AFA3E4 /* Crispy_In_Circles.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3B42F32D2454839F004A5B3F /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		3BD6894124542D9B00AFA3E4 /* RoundandRound.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RoundandRound.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BD6894424542D9B00AFA3E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3BD6894624542D9B00AFA3E4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +27,7 @@
 		3BD6894D24542D9D00AFA3E4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3BD6895024542D9D00AFA3E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3BD6895224542D9D00AFA3E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BD6895824545EFC00AFA3E4 /* Crispy_In_Circles.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Crispy_In_Circles.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				3BD6894424542D9B00AFA3E4 /* AppDelegate.swift */,
 				3BD6894624542D9B00AFA3E4 /* SceneDelegate.swift */,
 				3BD6894824542D9B00AFA3E4 /* ContentView.swift */,
+				3B42F32D2454839F004A5B3F /* SwiftUIView.swift */,
+				3BD6895824545EFC00AFA3E4 /* Crispy_In_Circles.mp3 */,
 				3BD6894A24542D9D00AFA3E4 /* Assets.xcassets */,
 				3BD6894F24542D9D00AFA3E4 /* LaunchScreen.storyboard */,
 				3BD6895224542D9D00AFA3E4 /* Info.plist */,
@@ -136,6 +142,7 @@
 				3BD6895124542D9D00AFA3E4 /* LaunchScreen.storyboard in Resources */,
 				3BD6894E24542D9D00AFA3E4 /* Preview Assets.xcassets in Resources */,
 				3BD6894B24542D9D00AFA3E4 /* Assets.xcassets in Resources */,
+				3BD6895924545EFC00AFA3E4 /* Crispy_In_Circles.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,6 +155,7 @@
 			files = (
 				3BD6894524542D9B00AFA3E4 /* AppDelegate.swift in Sources */,
 				3BD6894724542D9B00AFA3E4 /* SceneDelegate.swift in Sources */,
+				3B42F32E2454839F004A5B3F /* SwiftUIView.swift in Sources */,
 				3BD6894924542D9B00AFA3E4 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
